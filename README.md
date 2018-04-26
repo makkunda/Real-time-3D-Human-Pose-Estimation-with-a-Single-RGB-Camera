@@ -1,5 +1,5 @@
 # Real-time-3D-Human-Pose-Estimation-with-a-Single-RGB-Camera  
-COL 780 (Computer Vision - course project by Siddhant Arora and Makkunda Sharma)
+COL 780 (Computer Vision) - course project by Siddhant Arora and Makkunda Sharma
 Demo Video at : https://youtu.be/jfeaQ9-S0AA   
 We have implemented the paper :”VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera” by Mehta et al. from mpi-inf presented at SIGGRAPH 2017    
 
